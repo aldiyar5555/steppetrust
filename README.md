@@ -4,7 +4,7 @@ Educational project for the course Introduction to Finance. Not a real product, 
 
 Team AL DOS · Introduction to Finance, 2026–2027 · Final Project
 
-**Demo video:** [link to the demo video – add before submission]
+Demo video:https://docs.google.com/videos/d/13NWmb0xx1OKRseLYAI0MNYGbeKUFQMhqWbV2TEpjopM/play?usp=sharing
 
 SteppeTrust is a hypothetical permissioned blockchain platform for transparent logistics and certification in Kazakhstan's agri-food sector. Every batch (for example a railcar of wheat) gets one shared event log: the producer registers the batch, logistics operators confirm transport events, an accredited laboratory attaches its quality certificate and the buyer confirms receipt. When all of this is done, the batch gets the status **Verified**. Anyone can check that a document they received is exactly the one registered for the batch.
 
