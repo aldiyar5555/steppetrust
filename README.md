@@ -2,7 +2,7 @@ Educational project for the course Introduction to Finance. Not a real product, 
 
 # SteppeTrust – batch traceability and certification prototype
 
-Team AL DOS · Introduction to Finance, 2026–2027 · Final Project
+Introduction to Finance, 2026–2027 · Final Project
 
 Demo video:https://docs.google.com/videos/d/13NWmb0xx1OKRseLYAI0MNYGbeKUFQMhqWbV2TEpjopM/play?usp=sharing
 
